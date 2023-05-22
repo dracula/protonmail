@@ -1,6 +1,6 @@
-# Dracula for [Protonmail](Proton.me)
+# Dracula for [Protonmail](https://mail.proton.me/u/0/inbox)
 
-> A dark theme for [Protonmail](https://proton.me).
+> A dark theme for [Protonmail](https://mail.proton.me/u/0/inbox).
 
 ![Screenshot](./image.png)
 
@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/Protonmail](https://draculath
 
 ## Team
 
-This theme is maintained by the following personand a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 | [![Blisterexe](https://github.com/Blisterexe.png?size=100)](https://github.com/Blisterexe) 
 | ---------------------------------------------------------------------------------------- | 
 | [Blisterexe](https://github.com/Blisterexe)                                               
