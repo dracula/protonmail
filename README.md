@@ -1,6 +1,6 @@
-# Dracula for [Protonmail](https://mail.proton.me/u/0/inbox)
+# Dracula for [Protonmail](https://proton.me)
 
-> A dark theme for [Protonmail](https://mail.proton.me/u/0/inbox).
+> A dark theme for [the proton suite (mail,drive,calendar)](https://proton.me), but mostly meant for mail.
 
 ![Screenshot](./image.png)
 
