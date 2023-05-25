@@ -37,7 +37,7 @@
 	--signal-success-major-2: #f8f8f2f7;
 	--signal-success-major-3: #f8f8f2ed;
 	--signal-success-contrast: #282a36;
-	--signal-info-minor-2: #072029;
+	--signal-info-minor-2: #44475a;
 	--signal-info-minor-1: #0b2f3e;
 	--signal-info: #239ece;
 	--signal-info-major-1: #39a8d3;
