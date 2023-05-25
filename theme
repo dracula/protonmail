@@ -89,6 +89,7 @@
 	--optional-email-item-read-text-color: var(--text-weak);
 	--optional-mini-calendar-today-color: #f8f8f2;
 	--optional-logo-icon-text-color: #bd93f9;
+	--focus-outline: #bd93f9;
   }
 }
 
