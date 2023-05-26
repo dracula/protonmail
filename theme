@@ -90,6 +90,7 @@
 	--optional-mini-calendar-today-color: #f8f8f2;
 	--optional-logo-icon-text-color: #bd93f9;
 	--focus-outline: #bd93f9;
+	--favorite-icon-color: #f1fa8c;
   }
 }
 
