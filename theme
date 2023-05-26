@@ -47,7 +47,7 @@
 	--interaction-norm-minor-2: #44475a;
 	--interaction-norm-minor-1: #44475a;
 	--interaction-norm: #bd93f9;
-	--interaction-norm-major-1: #44475a;
+	--interaction-norm-major-1: #bd93f9bd;
 	--interaction-norm-major-2: #bd93f9;
 	--interaction-norm-major-3: #8b8b8b;
 	--interaction-norm-contrast: #ffffff;
