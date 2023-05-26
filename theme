@@ -92,7 +92,6 @@
 	--focus-outline: #bd93f9;
 	--favorite-icon-color: #f1fa8c;
   }
-}
 
 /* Dracula editor mode */
 #rooster-editor,
@@ -125,7 +124,8 @@ blockquote {
 .protonmail_signature_block-user a,
 .protonmail_signature_block-proton a {
     color: #bd93f9 !important;
+  }
 }
 
-/*credits to breat (https://userstyles.world/user/breat), i repurposed much of their code for all this*/
+/*credits to breat (https://userstyles.world/user/breat), i repurposed much of their code for some of this*/
 
