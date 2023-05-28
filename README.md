@@ -11,10 +11,11 @@ All instructions can be found at [draculatheme.com/Protonmail](https://draculath
 ## Team
 
 This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
-| [![Blisterexe](https://github.com/Blisterexe.png?size=100)](https://github.com/Blisterexe) 
-| ---------------------------------------------------------------------------------------- | 
-| [Blisterexe](https://github.com/Blisterexe)                                               
-                                   
+
+| [![Zeno Rocha](https://github.com/Blisterexe.png?size=100)](https://github.com/zenorocha) | [![BreatFR](https://github.com/breatfr.png?size=100)
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Zeno Rocha](https://github.com/Blisterexe)                                               | [BreatFR](https://github.com/breatfr)                                              |
+                 
 
 ## Community
 
