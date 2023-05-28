@@ -37,10 +37,10 @@
 	--signal-success-contrast: #282a36;
 	--signal-info-minor-2: #44475a;
 	--signal-info-minor-1: #0b2f3e;
-	--signal-info: #8be9fd;
-	--signal-info-major-1: #8be9fd;
-	--signal-info-major-2: #8be9fde0;
-	--signal-info-major-3: #8be9fdcc;
+	--signal-info: #bd93f9;
+	--signal-info-major-1: #bd93f9f0;
+	--signal-info-major-2: #bd93f9de;
+	--signal-info-major-3: #bd93f9cf;
 	--signal-info-contrast: #ffffff;
 	--interaction-norm-minor-2: #44475a;
 	--interaction-norm-minor-1: #44475a;
