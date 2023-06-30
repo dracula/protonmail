@@ -1,21 +1,20 @@
 # Dracula for [Protonmail](https://proton.me)
 
-> A dark theme for [the proton suite (mail,drive,calendar)](https://proton.me), but mostly meant for mail.
+> A dark theme for [the Proton suite (mail,drive,calendar)](https://proton.me), but mostly meant for mail.
 
-![Screenshot](./image.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/Protonmail](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/protonmail](https://draculatheme.com/protonmail).
 
 ## Team
 
-This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/protonmail/graphs/contributors).
 
-| [![Blisterexe](https://github.com/Blisterexe.png?size=100)](https://github.com/zenorocha) | [![BreatFR](https://github.com/breatfr.png?size=100)
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Blisterexe](https://github.com/Blisterexe)                                               | [BreatFR](https://github.com/breatfr)                                              |
-                 
+| [![Blisterexe](https://github.com/Blisterexe.png?size=100)](https://github.com/zenorocha) | [![BreatFR](https://github.com/breatfr.png?size=100) |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [Blisterexe](https://github.com/Blisterexe)                                               | [BreatFR](https://github.com/breatfr)                |
 
 ## Community
 
