@@ -49,8 +49,8 @@
 	--interaction-norm-major-2: #bd93f9;
 	--interaction-norm-major-3: #8b8b8b;
 	--interaction-norm-contrast: #ffffff;
-	--interaction-weak-minor-2: #181818;
-	--interaction-weak-minor-1: #252525;
+	--interaction-weak-minor-2: #44475a;
+	--interaction-weak-minor-1: #44475a;
 	--interaction-weak: #44475a;
 	--interaction-weak-major-1: #44475ab3;
 	--interaction-weak-major-2: #5e5e5e;
@@ -91,40 +91,72 @@
 	--favorite-icon-color: #f1fa8c;
   }
 
-/* Dracula editor and plaintext letters */
+:root, .quickSettingsSection {
+     background: #44475a;
+}
+    
+:root, .button-promotion {
+  --upgrade-color-stop-1: #bd93f9;
+  --upgrade-color-stop-2: #bd93f9;
+}
+
+/*breat's code starts here*/ 
+
+#proton-editor-container,
 #proton-editor-toggle-container,
 #proton-root,
+#proton-root div,
+#proton-root p,
+#proton-root td,
+#proton-root td.container,
 #rooster-editor,
 #rooster-editor div,
 #rooster-editor p,
-#rooster-editor table,
+#rooster-editor td,
 .composer-content--rich-edition,
 .message-content,
 .protonmail_quote,
 blockquote div,
 blockquote p,
-blockquote table {
-    background-color: #282a36 !important;
-    color: #f8f8f8 !important;
+blockquote td {
+    background: var(--email-message-view-background-color) !important;
+    color: var(--text-norm) !important;
 }
 
 blockquote {
-    border-left: #44475a !important;
+    border-left: #444444 !important;
 }
 
-/* Color of the signatures */
+/* Signature color */
 .protonmail_signature_block-user,
 .protonmail_signature_block-user table div,
 .protonmail_signature_block-proton {
-    color: #f8f8f8 !important;
+    color: var(--text-norm) !important;
 }
 
-/* Color of the links */
+/* Link color */
 #rooster-editor a,
 .protonmail_signature_block-user a,
 .protonmail_signature_block-proton a {
     color: #bd93f9 !important;
- }
 }
-/*credits to breat (https://breat.fr/), i repurposed much of their code for the editor and plaintext letters*/
 
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 5px !important;
+}
+
+::-webkit-scrollbar:horizontal {
+    height: 5px !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background: grey !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: white !important;
+}
+}
+
+/*credits to breat (https://breat.fr/), i repurposed much of their code for the editor and plaintext letters*/
