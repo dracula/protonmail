@@ -100,6 +100,15 @@
   --upgrade-color-stop-2: #bd93f9;
 }
 
+:root, .drawerAppSection, .drawerAppSection:focus, .drawerAppSection:focus-within, .drawerAppSection:hover {
+    --background-color: #20212B;
+}
+
+    .drawerAppSection, .drawerAppSection:focus, .drawerAppSection:focus-within, .drawerAppSection:hover {
+	background-color: #20212B;
+	min-height: 2.5rem;
+}
+
 /*breat's code starts here*/ 
 
 #proton-editor-container,
